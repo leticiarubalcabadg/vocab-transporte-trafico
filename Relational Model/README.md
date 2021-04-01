@@ -56,19 +56,19 @@ Ontología de Tráfico urbano de vehículos a motor que comprende equipos de con
 
 &nbsp;
 ![Diagrama conceptual](http://vocab.ciudadesabiertas.es/def/transporte/trafico/resources/images/vocabulario-trafico-sin-leyenda.png)
-Figura 1
+*Figura 1*
 
 &nbsp;
 ![Diagrama conceptual](vocabulario-trafico-mediciones1.png)
-Figura 2
+*Figura 2*
 &nbsp;
 
 ![Diagrama conceptual](vocabulario-trafico-mediciones.png)
-Figura 3
+*Figura 3*
 &nbsp;
 
 ![Diagrama conceptual](http://vocab.ciudadesabiertas.es/def/transporte/trafico/resources/images/vocabulario-trafico-incidencia.png)
-Figura 4
+*Figura 4*
 &nbsp;
 
 
