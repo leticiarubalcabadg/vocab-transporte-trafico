@@ -52,19 +52,23 @@ Este documento contiene la información detallada del modelo de datos asociado a
 
 ## DIAGRAMA CONCEPTUAL <a name="id3"></a>
 
-Ontología de Tráfico urbano de vehículos a motor que comprende equipos de control de tráfico, dispositivos de medición de tráfico, tramos e incidencias de tráfico. La Figura 1 muestra las clases y propiedades del vocabulario de tráfico. El principal objetivo de este vocabulario es permitir la representación de los equipos de tráfico, así como de las incidencias. La Figura 2 es un diagrama del Equipo de Tráfico y del Dispositivo de Medición de Tráfico como subclase de sosa:Sensor. Por último, la Figura 3 es un diagrama de la Incidencia de Tráfico y su relación con el Tramo.
+Ontología de Tráfico urbano de vehículos a motor que comprende equipos de control de tráfico, dispositivos de medición de tráfico, tramos e incidencias de tráfico. La Figura 1 muestra las clases y propiedades del vocabulario de tráfico. El principal objetivo de este vocabulario es permitir la representación de los equipos de tráfico, así como de las incidencias. La Figura 2 y 3 son un diagrama del Equipo de Tráfico y del Dispositivo de Medición de Tráfico como subclase de sosa:Sensor. Por último, la Figura 4 es un diagrama de la Incidencia de Tráfico y su relación con el Tramo.
 
 &nbsp;
 ![Diagrama conceptual](http://vocab.ciudadesabiertas.es/def/transporte/trafico/resources/images/vocabulario-trafico-sin-leyenda.png)
 Figura 1
 
 &nbsp;
-![Diagrama conceptual](http://vocab.ciudadesabiertas.es/def/transporte/trafico/resources/images/vocabulario-trafico-mediciones.png)
+![Diagrama conceptual](vocabulario-trafico-mediciones1.png)
 Figura 2
 &nbsp;
 
-![Diagrama conceptual](http://vocab.ciudadesabiertas.es/def/transporte/trafico/resources/images/vocabulario-trafico-incidencia.png)
+![Diagrama conceptual](vocabulario-trafico-mediciones.png)
 Figura 3
+&nbsp;
+
+![Diagrama conceptual](http://vocab.ciudadesabiertas.es/def/transporte/trafico/resources/images/vocabulario-trafico-incidencia.png)
+Figura 4
 &nbsp;
 
 
