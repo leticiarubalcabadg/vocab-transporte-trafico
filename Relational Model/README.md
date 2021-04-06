@@ -62,6 +62,7 @@ Ontología de Tráfico urbano de vehículos a motor que comprende equipos de con
 ![Diagrama conceptual](Vocabulario-Trafico-Mediciones.png)
 *Figura 2 - Diagrama del Equipo de Tráfico y del Dispositivo de Medición de Tráfico como subclase de sosa:Sensor*
 &nbsp;
+&nbsp;
 
 ![Diagrama conceptual](http://vocab.ciudadesabiertas.es/def/transporte/trafico/resources/images/vocabulario-trafico-incidencia.png)
 *Figura 3 - Diagrama de la Incidencia de Tráfico y su relación con el Tramo*
